@@ -1,4 +1,4 @@
-"""Iterating the even valued numbers."""
+"""Printing the sum of numbers."""
 N = int(input("Enter a number:"))
 SUM = 0
 while N != 0:
