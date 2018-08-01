@@ -1,5 +1,4 @@
+"""Displaying the even numbers from 10 to 2."""
 print("print Hello!")
-n=10
-while n!=0:
-    print("print",n)
-    n=n-2
+for i in range(10, 0, -2):
+    print("print", i)
